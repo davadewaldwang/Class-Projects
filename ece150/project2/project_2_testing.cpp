@@ -14,8 +14,8 @@ int main()
 
     // Testing code here
     pattern(0);
-    std::cout << log10(4294967295) << std::endl;
-    std::cout << count(32, 0) << std::endl;
+    std::cout << int_log10(4294967295) << std::endl;
+    std::cout << count_bits(32, 0) << std::endl;
     std::cout << (32-std::popcount(32u)) << std::endl;
     std::cout << swap_bytes( 32, 2, 0 ) << std::endl;
 
