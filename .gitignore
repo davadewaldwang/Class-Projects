@@ -1,0 +1,39 @@
+**/.vscode/
+
+*.DS_Store
+._*
+*.dSYM/
+
+# in APCode3
+# unfinished or written by mr mckeen
+00Bonuses/
+Vehicle.java
+VehicleRunner.java
+MoneyRunnerMcKeen.java
+Triangle.java
+lastname_FileIO.java
+WordsIDontLike.txt
+StackArray.java
+StackQueueTestingMcKeen.java
+14FamilyMapStarterFiles/
+ProcessArraysTestingMcKeen2026.java
+FractionRunnerMcKeen.java
+StringAnalysisRunnerMcKeen.java
+HelloWorld.java
+
+
+#in GridWorldCode
+firstProject/
+JumperRunner_McKeenTestCase.java
+SpecialCritterRunner_McKeenTestCase2022.java
+build.properties
+
+# in csa
+GridWorld.zip
+GridWorld_Case_Study_Student_Manual_with_Appendixes_Aug_2007_updated.pdf
+
+
+# in ece150
+HelloWorld/
+tut1/
+tut5/
