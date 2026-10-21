@@ -2,4 +2,4 @@
 My projects from programming classes
 
 ### csa
-Contains projects from my Java class. Run files from the src folder in APCode3 or from GridWorldCode. 
+Contains projects from my Java class. Run files from the src folder in APCode3 or from GridWorldCode. Most folders in src have runner files that can be run
